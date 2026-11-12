@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethodsAssignment", "StringMethodsAssignment\StringMethodsAssignment.csproj", "{BDA85F5F-13A8-4CD5-8C4D-584CBA415DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA85F5F-13A8-4CD5-8C4D-584CBA415DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA85F5F-13A8-4CD5-8C4D-584CBA415DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA85F5F-13A8-4CD5-8C4D-584CBA415DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA85F5F-13A8-4CD5-8C4D-584CBA415DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
